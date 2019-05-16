@@ -1,0 +1,5 @@
+.dart_tool/
+bin/demo.dart
+.packages
+pubspec.lock
+build/
